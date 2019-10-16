@@ -1,4 +1,7 @@
 # Arhitecture Proteus
+Name: CompB09
+Created on: 16th of October 2019
+Software: PROTEUS
 
 ## Labs
 
