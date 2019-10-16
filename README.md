@@ -8,6 +8,8 @@
 * Project 2
 > We used ground so we can stabilize and do not get errors 
 
-Project 3 - normal circuit with 3 inputs
+* Project 3 
+> Normal circuit with 3 inputs
 
-Full Adder - changed all the gates with NAND for and then with NOR in the same project with the full adder
+* Full Adder
+> Changed all the gates with NAND for and then with NOR in the same project with the full adder
