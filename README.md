@@ -5,7 +5,8 @@
 * Project 1 
 > The circuits from the binary logics (the good one); 3 ways of doing it
 
-Project 2 - we used ground so we can stabilize and do not get errors 
+* Project 2
+> We used ground so we can stabilize and do not get errors 
 
 Project 3 - normal circuit with 3 inputs
 
